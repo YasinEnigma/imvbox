@@ -1,8 +1,9 @@
-# GETTING DATA FROM [IMVBOX](https://imvbox.com/)
+# GEtting Data From [IMVBOX](https://imvbox.com/)
 collect data of Iranian film and use the data for create Actor network and other works.
 
 
 ## TODO
+- [x] Getting data.
 - [ ] Create actor network.
 - [ ] Visualize the network using gephi.
 - [ ] Visualize the network using BI tools. 
