@@ -4,7 +4,7 @@ collect data of Iranian film and use the data for create Actor network and other
 
 ## TODO
 - [x] Getting data.
-- [ ] Create actor network.
+- [x] Create actor network.
 - [ ] Visualize the network using gephi.
 - [ ] Visualize the network using BI tools. 
 - [ ] Using this data for recomendation system.
