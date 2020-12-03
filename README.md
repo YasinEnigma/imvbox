@@ -1,4 +1,4 @@
-# GEtting Data From [IMVBOX](https://imvbox.com/)
+# Getting Data From [IMVBOX](https://imvbox.com/)
 collect data of Iranian film and use the data for create Actor network and other works.
 
 
